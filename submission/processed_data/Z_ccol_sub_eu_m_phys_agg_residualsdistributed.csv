@@ -1,0 +1,811 @@
+material input,region,sector,0
+Basic metals,AUT,Buildings,207.8974534222398
+Basic metals,AUT,Electricity infrastructure,20.67456778693585
+Basic metals,AUT,Other civil engineering,25.11994259133831
+Basic metals,AUT,Railways,3.2737963715939498
+Basic metals,AUT,Roads,47.83485192935816
+Basic metals,BEL,Buildings,286.79389081458385
+Basic metals,BEL,Electricity infrastructure,32.83658380697152
+Basic metals,BEL,Other civil engineering,84.74291696664228
+Basic metals,BEL,Railways,1.757407056172096
+Basic metals,BEL,Roads,26.296318009490903
+Basic metals,BGR,Buildings,23.194383488712013
+Basic metals,BGR,Electricity infrastructure,4.218708902362872
+Basic metals,BGR,Other civil engineering,7.028022381686994
+Basic metals,BGR,Railways,1.0416085219653628
+Basic metals,BGR,Roads,7.761635889444549
+Basic metals,CYP,Buildings,11.854916828771183
+Basic metals,CYP,Electricity infrastructure,0.3085734319083629
+Basic metals,CYP,Other civil engineering,0.4328462763112213
+Basic metals,CYP,Railways,0.0
+Basic metals,CYP,Roads,0.6201860340677884
+Basic metals,CZE,Buildings,94.11933353979278
+Basic metals,CZE,Electricity infrastructure,11.844549071516212
+Basic metals,CZE,Other civil engineering,23.71461282509086
+Basic metals,CZE,Railways,6.169120853664239
+Basic metals,CZE,Roads,25.65946788605054
+Basic metals,DEU,Buildings,1000.1787697573516
+Basic metals,DEU,Electricity infrastructure,128.95066648626238
+Basic metals,DEU,Other civil engineering,241.72846106089156
+Basic metals,DEU,Railways,18.57005416077516
+Basic metals,DEU,Roads,123.84296070038151
+Basic metals,DNK,Buildings,72.9438304556651
+Basic metals,DNK,Electricity infrastructure,5.382768481767905
+Basic metals,DNK,Other civil engineering,22.205533332813012
+Basic metals,DNK,Railways,2.9023982617034783
+Basic metals,DNK,Roads,3.677435797021137
+Basic metals,ESP,Buildings,588.2095094292317
+Basic metals,ESP,Electricity infrastructure,71.79041648345101
+Basic metals,ESP,Other civil engineering,46.564922602166355
+Basic metals,ESP,Railways,17.213274192595772
+Basic metals,ESP,Roads,63.79452236295999
+Basic metals,EST,Buildings,6.678236563286772
+Basic metals,EST,Electricity infrastructure,3.8589470163782527
+Basic metals,EST,Other civil engineering,2.0726126812997894
+Basic metals,EST,Railways,0.12356119291786927
+Basic metals,EST,Roads,1.3082857313066354
+Basic metals,FIN,Buildings,28.14129013588203
+Basic metals,FIN,Electricity infrastructure,8.812716570093478
+Basic metals,FIN,Other civil engineering,2.34707000260287
+Basic metals,FIN,Railways,0.7452280008775013
+Basic metals,FIN,Roads,1.5615332318322912
+Basic metals,FRA,Buildings,1301.4828547284974
+Basic metals,FRA,Electricity infrastructure,90.70416046403041
+Basic metals,FRA,Other civil engineering,160.65646698895424
+Basic metals,FRA,Railways,6.618048582971148
+Basic metals,FRA,Roads,241.6431729781967
+Basic metals,GRC,Buildings,23.932159773252998
+Basic metals,GRC,Electricity infrastructure,9.909610302549268
+Basic metals,GRC,Other civil engineering,23.653931558992863
+Basic metals,GRC,Railways,2.5044644571325145
+Basic metals,GRC,Roads,18.967876452100004
+Basic metals,HRV,Buildings,37.94368866036944
+Basic metals,HRV,Electricity infrastructure,5.028722994947349
+Basic metals,HRV,Other civil engineering,12.36980884567302
+Basic metals,HRV,Railways,0.15189374422360416
+Basic metals,HRV,Roads,9.705801542535184
+Basic metals,HUN,Buildings,66.7426219452181
+Basic metals,HUN,Electricity infrastructure,16.767385409083786
+Basic metals,HUN,Other civil engineering,18.842121540250723
+Basic metals,HUN,Railways,5.4202495201790395
+Basic metals,HUN,Roads,21.1325513743076
+Basic metals,IRL,Buildings,36.36664722508619
+Basic metals,IRL,Electricity infrastructure,7.0209708556708925
+Basic metals,IRL,Other civil engineering,2.517450743687997
+Basic metals,IRL,Railways,0.043721012207067395
+Basic metals,IRL,Roads,1.4803921458826186
+Basic metals,ITA,Buildings,529.2756102934005
+Basic metals,ITA,Electricity infrastructure,91.14202098168509
+Basic metals,ITA,Other civil engineering,77.90450111684335
+Basic metals,ITA,Railways,18.599803314796148
+Basic metals,ITA,Roads,52.74092030535812
+Basic metals,LTU,Buildings,23.33909969127718
+Basic metals,LTU,Electricity infrastructure,3.930185898462973
+Basic metals,LTU,Other civil engineering,6.015563596783933
+Basic metals,LTU,Railways,0.053386510661985284
+Basic metals,LTU,Roads,4.910062838828299
+Basic metals,LUX,Buildings,20.850192430381696
+Basic metals,LUX,Electricity infrastructure,0.6527644582772908
+Basic metals,LUX,Other civil engineering,2.3888145732749604
+Basic metals,LUX,Railways,0.09913119475885496
+Basic metals,LUX,Roads,2.4798029836501128
+Basic metals,LVA,Buildings,8.820168893697463
+Basic metals,LVA,Electricity infrastructure,2.6484253096333354
+Basic metals,LVA,Other civil engineering,2.86756034483376
+Basic metals,LVA,Railways,0.07104529724983548
+Basic metals,LVA,Roads,3.1644744004614016
+Basic metals,MLT,Buildings,1.352741591622198
+Basic metals,MLT,Electricity infrastructure,0.008965711664934919
+Basic metals,MLT,Other civil engineering,0.0
+Basic metals,MLT,Railways,0.0
+Basic metals,MLT,Roads,0.08780590962458935
+Basic metals,NLD,Buildings,427.95400861861793
+Basic metals,NLD,Electricity infrastructure,34.67587725494495
+Basic metals,NLD,Other civil engineering,59.745188164978224
+Basic metals,NLD,Railways,13.02339138454931
+Basic metals,NLD,Roads,57.898077431815544
+Basic metals,POL,Buildings,332.421366453914
+Basic metals,POL,Electricity infrastructure,35.6330007672661
+Basic metals,POL,Other civil engineering,48.42708404730275
+Basic metals,POL,Railways,14.005552404111809
+Basic metals,POL,Roads,58.53912249865897
+Basic metals,PRT,Buildings,60.50579551771157
+Basic metals,PRT,Electricity infrastructure,14.021231873013946
+Basic metals,PRT,Other civil engineering,24.283320128760064
+Basic metals,PRT,Railways,0.48530833852446187
+Basic metals,PRT,Roads,10.306477593026885
+Basic metals,ROU,Buildings,369.4740452758038
+Basic metals,ROU,Electricity infrastructure,18.986823229227262
+Basic metals,ROU,Other civil engineering,47.26448907183543
+Basic metals,ROU,Railways,4.052538282299964
+Basic metals,ROU,Roads,84.50822064556408
+Basic metals,SVK,Buildings,33.69561004296482
+Basic metals,SVK,Electricity infrastructure,3.4282258535503725
+Basic metals,SVK,Other civil engineering,5.587162721657281
+Basic metals,SVK,Railways,0.880021546976848
+Basic metals,SVK,Roads,10.140501419391253
+Basic metals,SVN,Buildings,28.69541690400848
+Basic metals,SVN,Electricity infrastructure,4.950780564388458
+Basic metals,SVN,Other civil engineering,6.818318172801676
+Basic metals,SVN,Railways,0.9766109460733075
+Basic metals,SVN,Roads,7.017623373479244
+Basic metals,SWE,Buildings,191.24597174643924
+Basic metals,SWE,Electricity infrastructure,26.968827918777343
+Basic metals,SWE,Other civil engineering,10.260762692013994
+Basic metals,SWE,Railways,8.873435310243309
+Basic metals,SWE,Roads,23.409600489751792
+Fabricated metal products,AUT,Buildings,319.2260190526426
+Fabricated metal products,AUT,Electricity infrastructure,181.2018767316647
+Fabricated metal products,AUT,Other civil engineering,23.15305212057554
+Fabricated metal products,AUT,Railways,55.785005025859896
+Fabricated metal products,AUT,Roads,0.0
+Fabricated metal products,BEL,Buildings,503.5594789301146
+Fabricated metal products,BEL,Electricity infrastructure,337.18691040016535
+Fabricated metal products,BEL,Other civil engineering,100.82356043783737
+Fabricated metal products,BEL,Railways,52.27867287235079
+Fabricated metal products,BEL,Roads,0.0
+Fabricated metal products,BGR,Buildings,39.77935756550632
+Fabricated metal products,BGR,Electricity infrastructure,9.300917257586294
+Fabricated metal products,BGR,Other civil engineering,1.6467211767809815
+Fabricated metal products,BGR,Railways,12.073975772841415
+Fabricated metal products,BGR,Roads,0.0
+Fabricated metal products,CYP,Buildings,44.29872144805782
+Fabricated metal products,CYP,Electricity infrastructure,3.0399820835919944
+Fabricated metal products,CYP,Other civil engineering,1.5062554990409498
+Fabricated metal products,CYP,Railways,0.0
+Fabricated metal products,CYP,Roads,1.747196508877643
+Fabricated metal products,CZE,Buildings,136.7742639932138
+Fabricated metal products,CZE,Electricity infrastructure,45.80657937097953
+Fabricated metal products,CZE,Other civil engineering,14.799412410222802
+Fabricated metal products,CZE,Railways,72.31907294347025
+Fabricated metal products,CZE,Roads,0.0
+Fabricated metal products,DEU,Buildings,3464.9823457326024
+Fabricated metal products,DEU,Electricity infrastructure,1387.9368473043783
+Fabricated metal products,DEU,Other civil engineering,772.7861992120731
+Fabricated metal products,DEU,Railways,508.81093554120355
+Fabricated metal products,DEU,Roads,184.07969732089728
+Fabricated metal products,DNK,Buildings,190.7455777669337
+Fabricated metal products,DNK,Electricity infrastructure,32.29991436309057
+Fabricated metal products,DNK,Other civil engineering,15.044565114700156
+Fabricated metal products,DNK,Railways,12.485200948022467
+Fabricated metal products,DNK,Roads,0.0
+Fabricated metal products,ESP,Buildings,1112.2639621574874
+Fabricated metal products,ESP,Electricity infrastructure,622.3499266238271
+Fabricated metal products,ESP,Other civil engineering,100.16611977039513
+Fabricated metal products,ESP,Railways,189.12051663242747
+Fabricated metal products,ESP,Roads,89.74237014988108
+Fabricated metal products,EST,Buildings,36.76174676934684
+Fabricated metal products,EST,Electricity infrastructure,16.06097447194211
+Fabricated metal products,EST,Other civil engineering,2.575084758697967
+Fabricated metal products,EST,Railways,3.2285832019383154
+Fabricated metal products,EST,Roads,0.0
+Fabricated metal products,FIN,Buildings,211.07708180657718
+Fabricated metal products,FIN,Electricity infrastructure,46.98405073731985
+Fabricated metal products,FIN,Other civil engineering,5.5046648598219905
+Fabricated metal products,FIN,Railways,28.17726236889305
+Fabricated metal products,FIN,Roads,0.0
+Fabricated metal products,FRA,Buildings,5125.133351740399
+Fabricated metal products,FRA,Electricity infrastructure,827.8174334180648
+Fabricated metal products,FRA,Other civil engineering,562.7916290108883
+Fabricated metal products,FRA,Railways,368.907092364396
+Fabricated metal products,FRA,Roads,564.6462613953003
+Fabricated metal products,GRC,Buildings,48.44154293625765
+Fabricated metal products,GRC,Electricity infrastructure,79.75796318421916
+Fabricated metal products,GRC,Other civil engineering,39.02585924073212
+Fabricated metal products,GRC,Railways,43.34751240173604
+Fabricated metal products,GRC,Roads,1.2520168097684408
+Fabricated metal products,HRV,Buildings,38.492380359162354
+Fabricated metal products,HRV,Electricity infrastructure,13.209141181089292
+Fabricated metal products,HRV,Other civil engineering,2.950871129741952
+Fabricated metal products,HRV,Railways,2.1234798757533264
+Fabricated metal products,HRV,Roads,0.0
+Fabricated metal products,HUN,Buildings,143.44565018578555
+Fabricated metal products,HUN,Electricity infrastructure,98.26168231545078
+Fabricated metal products,HUN,Other civil engineering,19.505731808565393
+Fabricated metal products,HUN,Railways,57.931393487933256
+Fabricated metal products,HUN,Roads,0.0
+Fabricated metal products,IRL,Buildings,13.955185434201985
+Fabricated metal products,IRL,Electricity infrastructure,8.489004972599316
+Fabricated metal products,IRL,Other civil engineering,0.07556231647415326
+Fabricated metal products,IRL,Railways,0.28168156231992053
+Fabricated metal products,IRL,Roads,0.0
+Fabricated metal products,ITA,Buildings,2054.837868536975
+Fabricated metal products,ITA,Electricity infrastructure,891.9887005522678
+Fabricated metal products,ITA,Other civil engineering,340.10012091700816
+Fabricated metal products,ITA,Railways,252.80243435912743
+Fabricated metal products,ITA,Roads,184.80795228466508
+Fabricated metal products,LTU,Buildings,28.626518033096445
+Fabricated metal products,LTU,Electricity infrastructure,4.189511725245657
+Fabricated metal products,LTU,Other civil engineering,0.5492804776775458
+Fabricated metal products,LTU,Railways,0.28640019157953317
+Fabricated metal products,LTU,Roads,0.0
+Fabricated metal products,LUX,Buildings,11.853031609522771
+Fabricated metal products,LUX,Electricity infrastructure,1.0885732385468918
+Fabricated metal products,LUX,Other civil engineering,0.11439117028174149
+Fabricated metal products,LUX,Railways,0.6775665840416144
+Fabricated metal products,LUX,Roads,0.0
+Fabricated metal products,LVA,Buildings,34.103854925627886
+Fabricated metal products,LVA,Electricity infrastructure,9.227123337307068
+Fabricated metal products,LVA,Other civil engineering,0.8012417978266144
+Fabricated metal products,LVA,Railways,2.9091421026729143
+Fabricated metal products,LVA,Roads,0.0
+Fabricated metal products,MLT,Buildings,17.703947279204122
+Fabricated metal products,MLT,Electricity infrastructure,0.06759083322454477
+Fabricated metal products,MLT,Other civil engineering,0.0
+Fabricated metal products,MLT,Railways,0.0
+Fabricated metal products,MLT,Roads,0.0
+Fabricated metal products,NLD,Buildings,2785.436251863736
+Fabricated metal products,NLD,Electricity infrastructure,277.3642249433954
+Fabricated metal products,NLD,Other civil engineering,361.1490900161014
+Fabricated metal products,NLD,Railways,121.13800967915002
+Fabricated metal products,NLD,Roads,312.2219898177041
+Fabricated metal products,POL,Buildings,1309.0105876817277
+Fabricated metal products,POL,Electricity infrastructure,260.4921692441319
+Fabricated metal products,POL,Other civil engineering,86.0075535548946
+Fabricated metal products,POL,Railways,262.91156445697925
+Fabricated metal products,POL,Roads,0.0
+Fabricated metal products,PRT,Buildings,210.65375785755126
+Fabricated metal products,PRT,Electricity infrastructure,153.53249857248605
+Fabricated metal products,PRT,Other civil engineering,89.91328616722781
+Fabricated metal products,PRT,Railways,23.898841266553514
+Fabricated metal products,PRT,Roads,19.367008044111273
+Fabricated metal products,ROU,Buildings,320.50631658303314
+Fabricated metal products,ROU,Electricity infrastructure,108.01714464181988
+Fabricated metal products,ROU,Other civil engineering,35.82329947399019
+Fabricated metal products,ROU,Railways,64.95503136072927
+Fabricated metal products,ROU,Roads,32.627644749645995
+Fabricated metal products,SVK,Buildings,52.16324223002403
+Fabricated metal products,SVK,Electricity infrastructure,18.228809426494294
+Fabricated metal products,SVK,Other civil engineering,4.221189556865125
+Fabricated metal products,SVK,Railways,18.24017178775718
+Fabricated metal products,SVK,Roads,0.0
+Fabricated metal products,SVN,Buildings,40.48351791673849
+Fabricated metal products,SVN,Electricity infrastructure,38.701779775833074
+Fabricated metal products,SVN,Other civil engineering,8.589350768537143
+Fabricated metal products,SVN,Railways,15.486476957169053
+Fabricated metal products,SVN,Roads,0.12608550506759608
+Fabricated metal products,SWE,Buildings,260.19692289574186
+Fabricated metal products,SWE,Electricity infrastructure,123.70103102922701
+Fabricated metal products,SWE,Other civil engineering,4.242828664007154
+Fabricated metal products,SWE,Railways,60.6224174806491
+Fabricated metal products,SWE,Roads,0.0
+"Mining and quarrying, non-energy producing products",AUT,Buildings,1013.0595108380824
+"Mining and quarrying, non-energy producing products",AUT,Electricity infrastructure,0.0
+"Mining and quarrying, non-energy producing products",AUT,Other civil engineering,70.25715087405518
+"Mining and quarrying, non-energy producing products",AUT,Railways,63.86518431774409
+"Mining and quarrying, non-energy producing products",AUT,Roads,783.8064285142543
+"Mining and quarrying, non-energy producing products",BEL,Buildings,13472.924577291273
+"Mining and quarrying, non-energy producing products",BEL,Electricity infrastructure,323.11229870450643
+"Mining and quarrying, non-energy producing products",BEL,Other civil engineering,4019.4250110779244
+"Mining and quarrying, non-energy producing products",BEL,Railways,180.64193946581906
+"Mining and quarrying, non-energy producing products",BEL,Roads,2650.4513206056986
+"Mining and quarrying, non-energy producing products",BGR,Buildings,2555.9979882593966
+"Mining and quarrying, non-energy producing products",BGR,Electricity infrastructure,42.60417411128505
+"Mining and quarrying, non-energy producing products",BGR,Other civil engineering,650.9359880295528
+"Mining and quarrying, non-energy producing products",BGR,Railways,117.20254834465112
+"Mining and quarrying, non-energy producing products",BGR,Roads,1491.32884595417
+"Mining and quarrying, non-energy producing products",CYP,Buildings,55.451006177548976
+"Mining and quarrying, non-energy producing products",CYP,Electricity infrastructure,0.0
+"Mining and quarrying, non-energy producing products",CYP,Other civil engineering,2.6241831189362417
+"Mining and quarrying, non-energy producing products",CYP,Railways,0.0
+"Mining and quarrying, non-energy producing products",CYP,Roads,245.0548514577209
+"Mining and quarrying, non-energy producing products",CZE,Buildings,1615.9901256664034
+"Mining and quarrying, non-energy producing products",CZE,Electricity infrastructure,10.42803328864702
+"Mining and quarrying, non-energy producing products",CZE,Other civil engineering,277.4416383849147
+"Mining and quarrying, non-energy producing products",CZE,Railways,177.0248456196993
+"Mining and quarrying, non-energy producing products",CZE,Roads,954.9227325148846
+"Mining and quarrying, non-energy producing products",DEU,Buildings,430638.4515087499
+"Mining and quarrying, non-energy producing products",DEU,Electricity infrastructure,8951.12242083653
+"Mining and quarrying, non-energy producing products",DEU,Other civil engineering,115619.5091481624
+"Mining and quarrying, non-energy producing products",DEU,Railways,8306.737903359957
+"Mining and quarrying, non-energy producing products",DEU,Roads,69647.49789146717
+"Mining and quarrying, non-energy producing products",DNK,Buildings,101.475851364566
+"Mining and quarrying, non-energy producing products",DNK,Electricity infrastructure,0.0
+"Mining and quarrying, non-energy producing products",DNK,Other civil engineering,0.899627367071773
+"Mining and quarrying, non-energy producing products",DNK,Railways,1.9031029312224352
+"Mining and quarrying, non-energy producing products",DNK,Roads,43.1799267041981
+"Mining and quarrying, non-energy producing products",ESP,Buildings,4269.939509169445
+"Mining and quarrying, non-energy producing products",ESP,Electricity infrastructure,47.804883578104025
+"Mining and quarrying, non-energy producing products",ESP,Other civil engineering,294.49397021650685
+"Mining and quarrying, non-energy producing products",ESP,Railways,305.6692212423049
+"Mining and quarrying, non-energy producing products",ESP,Roads,2785.0531466537946
+"Mining and quarrying, non-energy producing products",EST,Buildings,166.324422119957
+"Mining and quarrying, non-energy producing products",EST,Electricity infrastructure,0.0
+"Mining and quarrying, non-energy producing products",EST,Other civil engineering,9.55736600398584
+"Mining and quarrying, non-energy producing products",EST,Railways,2.886171192734394
+"Mining and quarrying, non-energy producing products",EST,Roads,185.10009080832683
+"Mining and quarrying, non-energy producing products",FIN,Buildings,891.6674526785051
+"Mining and quarrying, non-energy producing products",FIN,Electricity infrastructure,0.0
+"Mining and quarrying, non-energy producing products",FIN,Other civil engineering,8.903260428516184
+"Mining and quarrying, non-energy producing products",FIN,Railways,17.607894278179195
+"Mining and quarrying, non-energy producing products",FIN,Roads,282.002928313312
+"Mining and quarrying, non-energy producing products",FRA,Buildings,131431.4413980155
+"Mining and quarrying, non-energy producing products",FRA,Electricity infrastructure,3026.627272745377
+"Mining and quarrying, non-energy producing products",FRA,Other civil engineering,17064.273454041748
+"Mining and quarrying, non-energy producing products",FRA,Railways,1036.0780134536215
+"Mining and quarrying, non-energy producing products",FRA,Roads,32110.108656183456
+"Mining and quarrying, non-energy producing products",GRC,Buildings,102.10822978739392
+"Mining and quarrying, non-energy producing products",GRC,Electricity infrastructure,0.0
+"Mining and quarrying, non-energy producing products",GRC,Other civil engineering,17.953715727306474
+"Mining and quarrying, non-energy producing products",GRC,Railways,28.03781812467763
+"Mining and quarrying, non-energy producing products",GRC,Roads,434.8132976241325
+"Mining and quarrying, non-energy producing products",HRV,Buildings,88.13225207258048
+"Mining and quarrying, non-energy producing products",HRV,Electricity infrastructure,0.0
+"Mining and quarrying, non-energy producing products",HRV,Other civil engineering,28.630807387344458
+"Mining and quarrying, non-energy producing products",HRV,Railways,2.534685806799655
+"Mining and quarrying, non-energy producing products",HRV,Roads,568.1924213810648
+"Mining and quarrying, non-energy producing products",HUN,Buildings,434.4397094808653
+"Mining and quarrying, non-energy producing products",HUN,Electricity infrastructure,0.0
+"Mining and quarrying, non-energy producing products",HUN,Other civil engineering,33.458326339117974
+"Mining and quarrying, non-energy producing products",HUN,Railways,33.44738760928366
+"Mining and quarrying, non-energy producing products",HUN,Roads,913.887046261475
+"Mining and quarrying, non-energy producing products",IRL,Buildings,2912.2446027629508
+"Mining and quarrying, non-energy producing products",IRL,Electricity infrastructure,46.918641567472804
+"Mining and quarrying, non-energy producing products",IRL,Other civil engineering,189.2521766812293
+"Mining and quarrying, non-energy producing products",IRL,Railways,5.863317939212187
+"Mining and quarrying, non-energy producing products",IRL,Roads,725.8982533533232
+"Mining and quarrying, non-energy producing products",ITA,Buildings,1142.6339815249053
+"Mining and quarrying, non-energy producing products",ITA,Electricity infrastructure,0.0
+"Mining and quarrying, non-energy producing products",ITA,Other civil engineering,35.39276648275011
+"Mining and quarrying, non-energy producing products",ITA,Railways,69.41441506901731
+"Mining and quarrying, non-energy producing products",ITA,Roads,1281.2600769071296
+"Mining and quarrying, non-energy producing products",LTU,Buildings,450.6139523841993
+"Mining and quarrying, non-energy producing products",LTU,Electricity infrastructure,0.0
+"Mining and quarrying, non-energy producing products",LTU,Other civil engineering,42.14049769310442
+"Mining and quarrying, non-energy producing products",LTU,Railways,0.9515674597014131
+"Mining and quarrying, non-energy producing products",LTU,Roads,680.9130473817393
+"Mining and quarrying, non-energy producing products",LUX,Buildings,211.68686030364364
+"Mining and quarrying, non-energy producing products",LUX,Electricity infrastructure,0.0
+"Mining and quarrying, non-energy producing products",LUX,Other civil engineering,4.658084097171118
+"Mining and quarrying, non-energy producing products",LUX,Railways,1.83013566957745
+"Mining and quarrying, non-energy producing products",LUX,Roads,90.18070937170418
+"Mining and quarrying, non-energy producing products",LVA,Buildings,384.91277552293127
+"Mining and quarrying, non-energy producing products",LVA,Electricity infrastructure,4.550450136572937
+"Mining and quarrying, non-energy producing products",LVA,Other civil engineering,104.27678335995473
+"Mining and quarrying, non-energy producing products",LVA,Railways,4.506571562367462
+"Mining and quarrying, non-energy producing products",LVA,Roads,743.1613600718317
+"Mining and quarrying, non-energy producing products",MLT,Buildings,57.604213131927544
+"Mining and quarrying, non-energy producing products",MLT,Electricity infrastructure,0.0
+"Mining and quarrying, non-energy producing products",MLT,Other civil engineering,0.0
+"Mining and quarrying, non-energy producing products",MLT,Railways,0.0
+"Mining and quarrying, non-energy producing products",MLT,Roads,45.30275227591808
+"Mining and quarrying, non-energy producing products",NLD,Buildings,41055.541809705865
+"Mining and quarrying, non-energy producing products",NLD,Electricity infrastructure,1638.46959569119
+"Mining and quarrying, non-energy producing products",NLD,Other civil engineering,5792.810824946334
+"Mining and quarrying, non-energy producing products",NLD,Railways,1402.11909664618
+"Mining and quarrying, non-energy producing products",NLD,Roads,6706.957970255976
+"Mining and quarrying, non-energy producing products",POL,Buildings,18520.78441787933
+"Mining and quarrying, non-energy producing products",POL,Electricity infrastructure,199.85282814119697
+"Mining and quarrying, non-energy producing products",POL,Other civil engineering,1882.5940925385544
+"Mining and quarrying, non-energy producing products",POL,Railways,607.5716692205438
+"Mining and quarrying, non-energy producing products",POL,Roads,4907.873311022792
+"Mining and quarrying, non-energy producing products",PRT,Buildings,1786.1696267930054
+"Mining and quarrying, non-energy producing products",PRT,Electricity infrastructure,11.701388340438756
+"Mining and quarrying, non-energy producing products",PRT,Other civil engineering,530.8141335055772
+"Mining and quarrying, non-energy producing products",PRT,Railways,36.85602117318329
+"Mining and quarrying, non-energy producing products",PRT,Roads,1005.3651674086576
+"Mining and quarrying, non-energy producing products",ROU,Buildings,482.8168194669869
+"Mining and quarrying, non-energy producing products",ROU,Electricity infrastructure,0.0
+"Mining and quarrying, non-energy producing products",ROU,Other civil engineering,9.921288133003426
+"Mining and quarrying, non-energy producing products",ROU,Railways,22.403819493138457
+"Mining and quarrying, non-energy producing products",ROU,Roads,353.5212794361627
+"Mining and quarrying, non-energy producing products",SVK,Buildings,247.28024450514732
+"Mining and quarrying, non-energy producing products",SVK,Electricity infrastructure,3.1668943311103854
+"Mining and quarrying, non-energy producing products",SVK,Other civil engineering,84.16866351532174
+"Mining and quarrying, non-energy producing products",SVK,Railways,41.1444290021537
+"Mining and quarrying, non-energy producing products",SVK,Roads,801.3099120448716
+"Mining and quarrying, non-energy producing products",SVN,Buildings,168.44262990328593
+"Mining and quarrying, non-energy producing products",SVN,Electricity infrastructure,0.0
+"Mining and quarrying, non-energy producing products",SVN,Other civil engineering,16.673737161549997
+"Mining and quarrying, non-energy producing products",SVN,Railways,11.152771829342806
+"Mining and quarrying, non-energy producing products",SVN,Roads,222.8598936270789
+"Mining and quarrying, non-energy producing products",SWE,Buildings,1782.1613086746
+"Mining and quarrying, non-energy producing products",SWE,Electricity infrastructure,0.0
+"Mining and quarrying, non-energy producing products",SWE,Other civil engineering,40.18720364471001
+"Mining and quarrying, non-energy producing products",SWE,Railways,168.668441621939
+"Mining and quarrying, non-energy producing products",SWE,Roads,1433.5886976347267
+Other non-metallic mineral products,AUT,Buildings,15209.313328635742
+Other non-metallic mineral products,AUT,Electricity infrastructure,2130.290370260163
+Other non-metallic mineral products,AUT,Other civil engineering,1555.5047971859383
+Other non-metallic mineral products,AUT,Railways,152.1890864870043
+Other non-metallic mineral products,AUT,Roads,4611.211519356731
+Other non-metallic mineral products,BEL,Buildings,30550.714396697877
+Other non-metallic mineral products,BEL,Electricity infrastructure,1364.843552624781
+Other non-metallic mineral products,BEL,Other civil engineering,8904.964044554104
+Other non-metallic mineral products,BEL,Railways,180.1582639035755
+Other non-metallic mineral products,BEL,Roads,6200.27243499694
+Other non-metallic mineral products,BGR,Buildings,3117.8154603541257
+Other non-metallic mineral products,BGR,Electricity infrastructure,66.50541669618266
+Other non-metallic mineral products,BGR,Other civil engineering,237.79392946334417
+Other non-metallic mineral products,BGR,Railways,17.853776035084316
+Other non-metallic mineral products,BGR,Roads,976.6939658784328
+Other non-metallic mineral products,CYP,Buildings,919.9189514473172
+Other non-metallic mineral products,CYP,Electricity infrastructure,3.9121449639137693
+Other non-metallic mineral products,CYP,Other civil engineering,23.666065523385697
+Other non-metallic mineral products,CYP,Railways,0.0
+Other non-metallic mineral products,CYP,Roads,778.0261097449148
+Other non-metallic mineral products,CZE,Buildings,7116.186550084273
+Other non-metallic mineral products,CZE,Electricity infrastructure,397.3097851313393
+Other non-metallic mineral products,CZE,Other civil engineering,1332.5593342003815
+Other non-metallic mineral products,CZE,Railways,236.923470344267
+Other non-metallic mineral products,CZE,Roads,3368.9831611721065
+Other non-metallic mineral products,DEU,Buildings,406944.20290127053
+Other non-metallic mineral products,DEU,Electricity infrastructure,14635.40861023372
+Other non-metallic mineral products,DEU,Other civil engineering,148859.49854597013
+Other non-metallic mineral products,DEU,Railways,11050.602855506151
+Other non-metallic mineral products,DEU,Roads,132539.9529915184
+Other non-metallic mineral products,DNK,Buildings,5333.859854780543
+Other non-metallic mineral products,DNK,Electricity infrastructure,130.60523513070055
+Other non-metallic mineral products,DNK,Other civil engineering,652.0542603030862
+Other non-metallic mineral products,DNK,Railways,16.487737598742342
+Other non-metallic mineral products,DNK,Roads,1736.5306513249056
+Other non-metallic mineral products,ESP,Buildings,28022.046610505324
+Other non-metallic mineral products,ESP,Electricity infrastructure,2501.3349196810113
+Other non-metallic mineral products,ESP,Other civil engineering,1912.1546321903634
+Other non-metallic mineral products,ESP,Railways,336.90688435072906
+Other non-metallic mineral products,ESP,Roads,10086.701389558779
+Other non-metallic mineral products,EST,Buildings,530.5305798824047
+Other non-metallic mineral products,EST,Electricity infrastructure,33.24329205147258
+Other non-metallic mineral products,EST,Other civil engineering,46.66205268523069
+Other non-metallic mineral products,EST,Railways,2.0829209625047147
+Other non-metallic mineral products,EST,Roads,859.9649554914662
+Other non-metallic mineral products,FIN,Buildings,4595.94221201908
+Other non-metallic mineral products,FIN,Electricity infrastructure,216.4361990785358
+Other non-metallic mineral products,FIN,Other civil engineering,172.32395962826718
+Other non-metallic mineral products,FIN,Railways,30.14850739874766
+Other non-metallic mineral products,FIN,Roads,3035.9262220030305
+Other non-metallic mineral products,FRA,Buildings,221670.17517866718
+Other non-metallic mineral products,FRA,Electricity infrastructure,11447.905796358567
+Other non-metallic mineral products,FRA,Other civil engineering,43117.92285611385
+Other non-metallic mineral products,FRA,Railways,1756.4490901225188
+Other non-metallic mineral products,FRA,Roads,107218.12136320202
+Other non-metallic mineral products,GRC,Buildings,1474.4223447563038
+Other non-metallic mineral products,GRC,Electricity infrastructure,267.10508803540887
+Other non-metallic mineral products,GRC,Other civil engineering,1377.9279301419576
+Other non-metallic mineral products,GRC,Railways,42.02053245492342
+Other non-metallic mineral products,GRC,Roads,6423.288526898064
+Other non-metallic mineral products,HRV,Buildings,2903.9102226936166
+Other non-metallic mineral products,HRV,Electricity infrastructure,166.92293319112764
+Other non-metallic mineral products,HRV,Other civil engineering,462.62326572232445
+Other non-metallic mineral products,HRV,Railways,3.8991454123067735
+Other non-metallic mineral products,HRV,Roads,2570.2657288071114
+Other non-metallic mineral products,HUN,Buildings,3982.5003601618446
+Other non-metallic mineral products,HUN,Electricity infrastructure,171.45724351586375
+Other non-metallic mineral products,HUN,Other civil engineering,794.6811079216113
+Other non-metallic mineral products,HUN,Railways,62.92428053271919
+Other non-metallic mineral products,HUN,Roads,6243.13892667222
+Other non-metallic mineral products,IRL,Buildings,2441.938750520023
+Other non-metallic mineral products,IRL,Electricity infrastructure,174.8022979787685
+Other non-metallic mineral products,IRL,Other civil engineering,97.93618498271515
+Other non-metallic mineral products,IRL,Railways,1.663382764531773
+Other non-metallic mineral products,IRL,Roads,1442.57409216422
+Other non-metallic mineral products,ITA,Buildings,16879.697935157954
+Other non-metallic mineral products,ITA,Electricity infrastructure,3098.8180220924205
+Other non-metallic mineral products,ITA,Other civil engineering,2766.2659219537504
+Other non-metallic mineral products,ITA,Railways,477.28518469600357
+Other non-metallic mineral products,ITA,Roads,10961.809909185366
+Other non-metallic mineral products,LTU,Buildings,516.9763543056764
+Other non-metallic mineral products,LTU,Electricity infrastructure,16.172768283363585
+Other non-metallic mineral products,LTU,Other civil engineering,19.0847785516829
+Other non-metallic mineral products,LTU,Railways,0.241458992022754
+Other non-metallic mineral products,LTU,Roads,706.201201193456
+Other non-metallic mineral products,LUX,Buildings,1701.5757980003248
+Other non-metallic mineral products,LUX,Electricity infrastructure,53.255097549646074
+Other non-metallic mineral products,LUX,Other civil engineering,130.79894538717886
+Other non-metallic mineral products,LUX,Railways,3.4988616411948747
+Other non-metallic mineral products,LUX,Roads,615.5905175692532
+Other non-metallic mineral products,LVA,Buildings,1535.505172699487
+Other non-metallic mineral products,LVA,Electricity infrastructure,219.95592932270222
+Other non-metallic mineral products,LVA,Other civil engineering,560.4131201079023
+Other non-metallic mineral products,LVA,Railways,7.897532011783363
+Other non-metallic mineral products,LVA,Roads,3299.904463422152
+Other non-metallic mineral products,MLT,Buildings,277.96982873993
+Other non-metallic mineral products,MLT,Electricity infrastructure,0.026557743229981976
+Other non-metallic mineral products,MLT,Other civil engineering,0.0
+Other non-metallic mineral products,MLT,Railways,0.0
+Other non-metallic mineral products,MLT,Roads,129.15033140070278
+Other non-metallic mineral products,NLD,Buildings,58038.24048380234
+Other non-metallic mineral products,NLD,Electricity infrastructure,2856.4578126744573
+Other non-metallic mineral products,NLD,Other civil engineering,9134.497477185088
+Other non-metallic mineral products,NLD,Railways,1979.094842945484
+Other non-metallic mineral products,NLD,Roads,13650.806187419203
+Other non-metallic mineral products,POL,Buildings,30358.47119932828
+Other non-metallic mineral products,POL,Electricity infrastructure,643.827649399915
+Other non-metallic mineral products,POL,Other civil engineering,2451.0040200611397
+Other non-metallic mineral products,POL,Railways,213.31692084979824
+Other non-metallic mineral products,POL,Roads,7929.05565694961
+Other non-metallic mineral products,PRT,Buildings,7648.379205367635
+Other non-metallic mineral products,PRT,Electricity infrastructure,771.0849779252198
+Other non-metallic mineral products,PRT,Other civil engineering,3350.733706346952
+Other non-metallic mineral products,PRT,Railways,47.00051576958378
+Other non-metallic mineral products,PRT,Roads,4512.58918983492
+Other non-metallic mineral products,ROU,Buildings,10494.713544289127
+Other non-metallic mineral products,ROU,Electricity infrastructure,295.05272254686446
+Other non-metallic mineral products,ROU,Other civil engineering,426.4732354488009
+Other non-metallic mineral products,ROU,Railways,32.235439426298754
+Other non-metallic mineral products,ROU,Roads,2119.1520475497587
+Other non-metallic mineral products,SVK,Buildings,3013.4537879544446
+Other non-metallic mineral products,SVK,Electricity infrastructure,186.9887508653166
+Other non-metallic mineral products,SVK,Other civil engineering,421.48417255506274
+Other non-metallic mineral products,SVK,Railways,43.294728663045234
+Other non-metallic mineral products,SVK,Roads,1716.8243628319233
+Other non-metallic mineral products,SVN,Buildings,1266.0444480954452
+Other non-metallic mineral products,SVN,Electricity infrastructure,165.78919570527586
+Other non-metallic mineral products,SVN,Other civil engineering,306.3521570547907
+Other non-metallic mineral products,SVN,Railways,23.260118707402043
+Other non-metallic mineral products,SVN,Roads,1656.3318308712771
+Other non-metallic mineral products,SWE,Buildings,10619.960857926118
+Other non-metallic mineral products,SWE,Electricity infrastructure,937.1278553904228
+Other non-metallic mineral products,SWE,Other civil engineering,323.78632677049615
+Other non-metallic mineral products,SWE,Railways,171.87439913978847
+Other non-metallic mineral products,SWE,Roads,4484.057573330341
+Rubber and plastic products,AUT,Buildings,348.133600417942
+Rubber and plastic products,AUT,Electricity infrastructure,7.975291851115621
+Rubber and plastic products,AUT,Other civil engineering,27.53808898289743
+Rubber and plastic products,AUT,Railways,1.9530236391531146
+Rubber and plastic products,AUT,Roads,32.730856211463156
+Rubber and plastic products,BEL,Buildings,549.8995337788882
+Rubber and plastic products,BEL,Electricity infrastructure,15.0254183081866
+Rubber and plastic products,BEL,Other civil engineering,123.08157673765872
+Rubber and plastic products,BEL,Railways,1.6914839937022013
+Rubber and plastic products,BEL,Roads,27.132460436479494
+Rubber and plastic products,BGR,Buildings,45.95611731723461
+Rubber and plastic products,BGR,Electricity infrastructure,0.7581043170756167
+Rubber and plastic products,BGR,Other civil engineering,3.3694529791205388
+Rubber and plastic products,BGR,Railways,0.0
+Rubber and plastic products,BGR,Roads,0.0
+Rubber and plastic products,CYP,Buildings,2.3947788329987896
+Rubber and plastic products,CYP,Electricity infrastructure,0.03554059476819216
+Rubber and plastic products,CYP,Other civil engineering,0.020861697241129983
+Rubber and plastic products,CYP,Railways,0.0
+Rubber and plastic products,CYP,Roads,0.0
+Rubber and plastic products,CZE,Buildings,156.37585390484324
+Rubber and plastic products,CZE,Electricity infrastructure,4.3621847004184024
+Rubber and plastic products,CZE,Other civil engineering,21.15558308115611
+Rubber and plastic products,CZE,Railways,2.6835046404729
+Rubber and plastic products,CZE,Roads,11.3045780880781
+Rubber and plastic products,DEU,Buildings,3555.425382356225
+Rubber and plastic products,DEU,Electricity infrastructure,81.2231676393502
+Rubber and plastic products,DEU,Other civil engineering,752.9969143914847
+Rubber and plastic products,DEU,Railways,40.44941751647206
+Rubber and plastic products,DEU,Roads,336.0673556934898
+Rubber and plastic products,DNK,Buildings,172.00096665404791
+Rubber and plastic products,DNK,Electricity infrastructure,0.848348323988855
+Rubber and plastic products,DNK,Other civil engineering,13.788245534129333
+Rubber and plastic products,DNK,Railways,0.0
+Rubber and plastic products,DNK,Roads,0.0
+Rubber and plastic products,ESP,Buildings,614.373406643196
+Rubber and plastic products,ESP,Electricity infrastructure,35.07584976659236
+Rubber and plastic products,ESP,Other civil engineering,44.270262704983125
+Rubber and plastic products,ESP,Railways,16.022324695553753
+Rubber and plastic products,ESP,Roads,56.42692606586766
+Rubber and plastic products,EST,Buildings,21.271307383816996
+Rubber and plastic products,EST,Electricity infrastructure,0.4059132276407209
+Rubber and plastic products,EST,Other civil engineering,0.8079510633236228
+Rubber and plastic products,EST,Railways,0.0
+Rubber and plastic products,EST,Roads,0.0
+Rubber and plastic products,FIN,Buildings,143.14539387739325
+Rubber and plastic products,FIN,Electricity infrastructure,1.1425493942160423
+Rubber and plastic products,FIN,Other civil engineering,2.4855623624389476
+Rubber and plastic products,FIN,Railways,0.0
+Rubber and plastic products,FIN,Roads,0.0
+Rubber and plastic products,FRA,Buildings,1606.4847560251349
+Rubber and plastic products,FRA,Electricity infrastructure,22.17203110040803
+Rubber and plastic products,FRA,Other civil engineering,100.52578519981279
+Rubber and plastic products,FRA,Railways,0.5664368020464389
+Rubber and plastic products,FRA,Roads,26.723591801871528
+Rubber and plastic products,GRC,Buildings,15.428287352514443
+Rubber and plastic products,GRC,Electricity infrastructure,1.2727776943214328
+Rubber and plastic products,GRC,Other civil engineering,2.2668575873186256
+Rubber and plastic products,GRC,Railways,0.0
+Rubber and plastic products,GRC,Roads,0.0
+Rubber and plastic products,HRV,Buildings,30.04535805476042
+Rubber and plastic products,HRV,Electricity infrastructure,0.565589516936447
+Rubber and plastic products,HRV,Other civil engineering,3.0248213303831615
+Rubber and plastic products,HRV,Railways,0.0
+Rubber and plastic products,HRV,Roads,0.0
+Rubber and plastic products,HUN,Buildings,143.11556284409275
+Rubber and plastic products,HUN,Electricity infrastructure,6.694244044335624
+Rubber and plastic products,HUN,Other civil engineering,21.502413744738977
+Rubber and plastic products,HUN,Railways,3.6307295662655292
+Rubber and plastic products,HUN,Roads,14.044650294464844
+Rubber and plastic products,IRL,Buildings,100.92935512699897
+Rubber and plastic products,IRL,Electricity infrastructure,2.4951689786500433
+Rubber and plastic products,IRL,Other civil engineering,4.400700539401316
+Rubber and plastic products,IRL,Railways,0.01998680620765701
+Rubber and plastic products,IRL,Roads,0.9797572780379926
+Rubber and plastic products,ITA,Buildings,1039.9474841617625
+Rubber and plastic products,ITA,Electricity infrastructure,64.46083294753896
+Rubber and plastic products,ITA,Other civil engineering,144.4607077793028
+Rubber and plastic products,ITA,Railways,35.99087504641455
+Rubber and plastic products,ITA,Roads,96.6979041588388
+Rubber and plastic products,LTU,Buildings,35.70400752146407
+Rubber and plastic products,LTU,Electricity infrastructure,0.1627581469835813
+Rubber and plastic products,LTU,Other civil engineering,0.9137963099963264
+Rubber and plastic products,LTU,Railways,0.0
+Rubber and plastic products,LTU,Roads,0.0
+Rubber and plastic products,LUX,Buildings,76.30752059991589
+Rubber and plastic products,LUX,Electricity infrastructure,0.3557077990982579
+Rubber and plastic products,LUX,Other civil engineering,7.020779348102271
+Rubber and plastic products,LUX,Railways,0.1717931717846141
+Rubber and plastic products,LUX,Roads,4.998133797683982
+Rubber and plastic products,LVA,Buildings,13.813698624326776
+Rubber and plastic products,LVA,Electricity infrastructure,0.1324745929406877
+Rubber and plastic products,LVA,Other civil engineering,0.5701884817681189
+Rubber and plastic products,LVA,Railways,0.0
+Rubber and plastic products,LVA,Roads,0.0
+Rubber and plastic products,MLT,Buildings,8.711357385114516
+Rubber and plastic products,MLT,Electricity infrastructure,0.0016933979253624647
+Rubber and plastic products,MLT,Other civil engineering,0.0
+Rubber and plastic products,MLT,Railways,0.0
+Rubber and plastic products,MLT,Roads,0.0
+Rubber and plastic products,NLD,Buildings,619.579104660945
+Rubber and plastic products,NLD,Electricity infrastructure,17.353195729877147
+Rubber and plastic products,NLD,Other civil engineering,61.307554188438964
+Rubber and plastic products,NLD,Railways,10.059497782838896
+Rubber and plastic products,NLD,Roads,40.95690171621815
+Rubber and plastic products,POL,Buildings,1926.1034468299772
+Rubber and plastic products,POL,Electricity infrastructure,65.67413259309212
+Rubber and plastic products,POL,Other civil engineering,249.8817112007827
+Rubber and plastic products,POL,Railways,63.601022347384465
+Rubber and plastic products,POL,Roads,262.1226600627643
+Rubber and plastic products,PRT,Buildings,130.703980358322
+Rubber and plastic products,PRT,Electricity infrastructure,6.737235378999569
+Rubber and plastic products,PRT,Other civil engineering,43.92342808296628
+Rubber and plastic products,PRT,Railways,0.6560013954162814
+Rubber and plastic products,PRT,Roads,16.58268625432717
+Rubber and plastic products,ROU,Buildings,170.51858131541724
+Rubber and plastic products,ROU,Electricity infrastructure,5.6540194795694205
+Rubber and plastic products,ROU,Other civil engineering,17.320995132807294
+Rubber and plastic products,ROU,Railways,1.1683592694434015
+Rubber and plastic products,ROU,Roads,25.052773368604534
+Rubber and plastic products,SVK,Buildings,42.163162708039856
+Rubber and plastic products,SVK,Electricity infrastructure,0.6467696100932598
+Rubber and plastic products,SVK,Other civil engineering,2.49855385863301
+Rubber and plastic products,SVK,Railways,0.0
+Rubber and plastic products,SVK,Roads,0.0
+Rubber and plastic products,SVN,Buildings,18.74040047718464
+Rubber and plastic products,SVN,Electricity infrastructure,0.9936593796897417
+Rubber and plastic products,SVN,Other civil engineering,1.4155226575890987
+Rubber and plastic products,SVN,Railways,0.0
+Rubber and plastic products,SVN,Roads,0.0
+Rubber and plastic products,SWE,Buildings,144.3337290466446
+Rubber and plastic products,SWE,Electricity infrastructure,2.0139150684745863
+Rubber and plastic products,SWE,Other civil engineering,0.8891341010797621
+Rubber and plastic products,SWE,Railways,0.0
+Rubber and plastic products,SWE,Roads,0.0
+Wood and products of wood and cork,AUT,Buildings,1328.2070809681252
+Wood and products of wood and cork,AUT,Electricity infrastructure,22.149585906130184
+Wood and products of wood and cork,AUT,Other civil engineering,151.28371757151788
+Wood and products of wood and cork,AUT,Railways,41.6184350460427
+Wood and products of wood and cork,AUT,Roads,272.601270087364
+Wood and products of wood and cork,BEL,Buildings,1172.1796370456161
+Wood and products of wood and cork,BEL,Electricity infrastructure,24.409694878976754
+Wood and products of wood and cork,BEL,Other civil engineering,309.76957018112444
+Wood and products of wood and cork,BEL,Railways,21.197547577132525
+Wood and products of wood and cork,BEL,Roads,84.17544136090612
+Wood and products of wood and cork,BGR,Buildings,47.62661031434908
+Wood and products of wood and cork,BGR,Electricity infrastructure,0.0
+Wood and products of wood and cork,BGR,Other civil engineering,1.6679822828701127
+Wood and products of wood and cork,BGR,Railways,4.02033108851044
+Wood and products of wood and cork,BGR,Roads,0.0
+Wood and products of wood and cork,CYP,Buildings,44.01482299561027
+Wood and products of wood and cork,CYP,Electricity infrastructure,0.09120658261392724
+Wood and products of wood and cork,CYP,Other civil engineering,1.1853643557390787
+Wood and products of wood and cork,CYP,Railways,0.0
+Wood and products of wood and cork,CYP,Roads,1.0215137252760014
+Wood and products of wood and cork,CZE,Buildings,215.93626389476194
+Wood and products of wood and cork,CZE,Electricity infrastructure,2.833015876029073
+Wood and products of wood and cork,CZE,Other civil engineering,31.340158470653233
+Wood and products of wood and cork,CZE,Railways,34.22783268754924
+Wood and products of wood and cork,CZE,Roads,14.93128630069563
+Wood and products of wood and cork,DEU,Buildings,6138.373129147162
+Wood and products of wood and cork,DEU,Electricity infrastructure,90.33684284230357
+Wood and products of wood and cork,DEU,Other civil engineering,1358.6818774713547
+Wood and products of wood and cork,DEU,Railways,131.4845916041555
+Wood and products of wood and cork,DEU,Roads,634.5516036627658
+Wood and products of wood and cork,DNK,Buildings,878.080619858167
+Wood and products of wood and cork,DNK,Electricity infrastructure,9.386993149892785
+Wood and products of wood and cork,DNK,Other civil engineering,203.66153902197482
+Wood and products of wood and cork,DNK,Railways,29.016521382765088
+Wood and products of wood and cork,DNK,Roads,30.428458390809272
+Wood and products of wood and cork,ESP,Buildings,1288.209117558104
+Wood and products of wood and cork,ESP,Electricity infrastructure,37.129758759134916
+Wood and products of wood and cork,ESP,Other civil engineering,86.48310033405262
+Wood and products of wood and cork,ESP,Railways,75.07792726331346
+Wood and products of wood and cork,ESP,Roads,101.61957960877058
+Wood and products of wood and cork,EST,Buildings,276.8329405944666
+Wood and products of wood and cork,EST,Electricity infrastructure,17.855938728782323
+Wood and products of wood and cork,EST,Other civil engineering,71.56746008646537
+Wood and products of wood and cork,EST,Railways,5.475968437705564
+Wood and products of wood and cork,EST,Roads,56.893485949737645
+Wood and products of wood and cork,FIN,Buildings,3879.367817823938
+Wood and products of wood and cork,FIN,Electricity infrastructure,240.49314610551312
+Wood and products of wood and cork,FIN,Other civil engineering,289.7227814311217
+Wood and products of wood and cork,FIN,Railways,80.46878076641559
+Wood and products of wood and cork,FIN,Roads,243.85877900693174
+Wood and products of wood and cork,FRA,Buildings,4578.970572493807
+Wood and products of wood and cork,FRA,Electricity infrastructure,69.10039905929827
+Wood and products of wood and cork,FRA,Other civil engineering,471.41659539449216
+Wood and products of wood and cork,FRA,Railways,110.97081046615016
+Wood and products of wood and cork,FRA,Roads,543.5104572291717
+Wood and products of wood and cork,GRC,Buildings,23.840693829077058
+Wood and products of wood and cork,GRC,Electricity infrastructure,0.0
+Wood and products of wood and cork,GRC,Other civil engineering,2.707524901178746
+Wood and products of wood and cork,GRC,Railways,7.168309257317587
+Wood and products of wood and cork,GRC,Roads,0.0
+Wood and products of wood and cork,HRV,Buildings,69.52997086280917
+Wood and products of wood and cork,HRV,Electricity infrastructure,1.3078214855816959
+Wood and products of wood and cork,HRV,Other civil engineering,12.192762389639455
+Wood and products of wood and cork,HRV,Railways,1.2856247023987224
+Wood and products of wood and cork,HRV,Roads,4.654415384063263
+Wood and products of wood and cork,HUN,Buildings,259.03988283484966
+Wood and products of wood and cork,HUN,Electricity infrastructure,12.80453901826672
+Wood and products of wood and cork,HUN,Other civil engineering,53.407679821376945
+Wood and products of wood and cork,HUN,Railways,34.913893765699314
+Wood and products of wood and cork,HUN,Roads,48.18337247783365
+Wood and products of wood and cork,IRL,Buildings,190.75403370011935
+Wood and products of wood and cork,IRL,Electricity infrastructure,2.317232579065717
+Wood and products of wood and cork,IRL,Other civil engineering,9.893443591197627
+Wood and products of wood and cork,IRL,Railways,0.8739542114838319
+Wood and products of wood and cork,IRL,Roads,3.9231082763664564
+Wood and products of wood and cork,ITA,Buildings,679.9604984613479
+Wood and products of wood and cork,ITA,Electricity infrastructure,20.7790473059573
+Wood and products of wood and cork,ITA,Other civil engineering,81.0681212349797
+Wood and products of wood and cork,ITA,Railways,66.91959413882473
+Wood and products of wood and cork,ITA,Roads,44.321475096292
+Wood and products of wood and cork,LTU,Buildings,55.81355105095695
+Wood and products of wood and cork,LTU,Electricity infrastructure,0.0
+Wood and products of wood and cork,LTU,Other civil engineering,1.7163826685731325
+Wood and products of wood and cork,LTU,Railways,0.14769344638414852
+Wood and products of wood and cork,LTU,Roads,0.0
+Wood and products of wood and cork,LUX,Buildings,135.90117520570283
+Wood and products of wood and cork,LUX,Electricity infrastructure,0.4313640659837843
+Wood and products of wood and cork,LUX,Other civil engineering,13.968415510286569
+Wood and products of wood and cork,LUX,Railways,1.630569857869163
+Wood and products of wood and cork,LUX,Roads,11.58868945030655
+Wood and products of wood and cork,LVA,Buildings,67.96535904620697
+Wood and products of wood and cork,LVA,Electricity infrastructure,3.6182565106828677
+Wood and products of wood and cork,LVA,Other civil engineering,10.850765706147737
+Wood and products of wood and cork,LVA,Railways,0.9464102848921535
+Wood and products of wood and cork,LVA,Roads,8.412489713380014
+Wood and products of wood and cork,MLT,Buildings,6.357988174128392
+Wood and products of wood and cork,MLT,Electricity infrastructure,0.0
+Wood and products of wood and cork,MLT,Other civil engineering,0.0
+Wood and products of wood and cork,MLT,Railways,0.0
+Wood and products of wood and cork,MLT,Roads,0.0
+Wood and products of wood and cork,NLD,Buildings,1748.9459889059099
+Wood and products of wood and cork,NLD,Electricity infrastructure,59.81321368105599
+Wood and products of wood and cork,NLD,Other civil engineering,223.98013683670408
+Wood and products of wood and cork,NLD,Railways,59.45475239915516
+Wood and products of wood and cork,NLD,Roads,200.23763185155138
+Wood and products of wood and cork,POL,Buildings,1585.0862991073757
+Wood and products of wood and cork,POL,Electricity infrastructure,18.652007678496016
+Wood and products of wood and cork,POL,Other civil engineering,145.24366933220668
+Wood and products of wood and cork,POL,Railways,93.4646308382779
+Wood and products of wood and cork,POL,Roads,82.93817018201288
+Wood and products of wood and cork,PRT,Buildings,334.8128674451262
+Wood and products of wood and cork,PRT,Electricity infrastructure,7.817810641943208
+Wood and products of wood and cork,PRT,Other civil engineering,111.89858955645649
+Wood and products of wood and cork,PRT,Railways,8.103416060306515
+Wood and products of wood and cork,PRT,Roads,42.37931928177176
+Wood and products of wood and cork,ROU,Buildings,664.5018855549368
+Wood and products of wood and cork,ROU,Electricity infrastructure,10.033330113554316
+Wood and products of wood and cork,ROU,Other civil engineering,64.06634956333833
+Wood and products of wood and cork,ROU,Railways,21.726048504286965
+Wood and products of wood and cork,ROU,Roads,86.53225284356401
+Wood and products of wood and cork,SVK,Buildings,88.29961540995474
+Wood and products of wood and cork,SVK,Electricity infrastructure,0.4100584020818914
+Wood and products of wood and cork,SVK,Other civil engineering,8.042858724760892
+Wood and products of wood and cork,SVK,Railways,7.541976703748628
+Wood and products of wood and cork,SVK,Roads,4.038543261099832
+Wood and products of wood and cork,SVN,Buildings,81.48254291501966
+Wood and products of wood and cork,SVN,Electricity infrastructure,2.2097415516293135
+Wood and products of wood and cork,SVN,Other civil engineering,16.186826696374357
+Wood and products of wood and cork,SVN,Railways,6.395565959093546
+Wood and products of wood and cork,SVN,Roads,14.358172689776303
+Wood and products of wood and cork,SWE,Buildings,4303.307099094203
+Wood and products of wood and cork,SWE,Electricity infrastructure,104.3854602280615
+Wood and products of wood and cork,SWE,Other civil engineering,164.24457399736042
+Wood and products of wood and cork,SWE,Railways,149.83409638974
+Wood and products of wood and cork,SWE,Roads,371.4698763738017

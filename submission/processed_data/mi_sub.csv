@@ -1,0 +1,122 @@
+Unit,Value_source,Structure_group,Value_process,Region,Value_samplesize,Basic metals_Aluminium,Basic metals_Copper,Basic metals_Lead,Basic metals_Other metals,Fabricated metal products_Steel,"Mining and quarrying, non-energy producing products_Sand and clay",Other non-metallic mineral products_Asphalt concrete,Other non-metallic mineral products_Bricks,Other non-metallic mineral products_Concrete,Other non-metallic mineral products_Glass,Other non-metallic mineral products_Mortar,Other non-metallic mineral products_Stone,Other non-metallic mineral products_Stone wool,Rubber and plastic products_Plastics,Wood and products of wood and cork_Other metals,Wood and products of wood and cork_Timber
+kg/MW peak,Deetman et al. 2021,"Electricity infrastructure, combined cycle",expansion (& replacement),Global,,30980.073157055078,15428.460224192864,428.3287189950645,33.641,102683.67820404844,,,,361844.6367064398,565.2206424390899,,,,4719.894281014795,,
+kg/MW peak,Deetman et al. 2021,"Electricity infrastructure, combustible fuels",expansion (& replacement),Global,,30926.811060305077,17198.907050080365,428.3287189950645,33.641,110405.33042179843,,,,438244.58479143976,565.2206424390899,,,,4719.894281014795,,
+kg/MW peak,Deetman et al. 2021,"Electricity infrastructure, combustion CCS",expansion (& replacement),Global,,30911.186060305077,17864.907792467864,428.3287189950645,37.391,123047.63133229844,,,,422722.52229143976,565.2206424390899,,,,4719.894281014795,,
+kg/MW peak,Deetman et al. 2021,"Electricity infrastructure, hydro",expansion (& replacement),Global,,30475.385098055078,16197.158534842863,433.6887189950645,0.0,130830.24200404844,,,,3061421.6667064396,565.2206424390899,,,,4719.894281014795,,
+kg/MW peak,Deetman et al. 2021,"Electricity infrastructure, nuclear and other fuels",expansion (& replacement),Global,,30554.05176505508,15262.883259842863,462.0957189950645,0.0605,103592.96987404843,,,,464035.9700064397,565.2206424390899,,,,4719.894281014795,,
+kg/MW peak,Deetman et al. 2021,"Electricity infrastructure, other renewables",expansion (& replacement),Global,,34071.92414705508,18395.818858842864,453.7297189950645,17.8637,275819.26570404845,,,,1254306.1917064397,565.2206424390899,,,,4719.894281014795,,
+kg/MW peak,Deetman et al. 2021,"Electricity infrastructure, solar CSP",expansion (& replacement),Global,,35975.38509805508,17643.888059842866,428.3287189950645,0.0,636372.1175040484,,,,1580615.0767064397,156551.88764243908,,,,4719.894281014795,,
+kg/MW peak,Deetman et al. 2021,"Electricity infrastructure, solar photovoltaic",expansion (& replacement),Global,,40651.38509805508,20839.883259842863,549.9717189950645,0.0,210136.30320404842,,,,228802.63670643975,565.2206424390899,,,,4719.894281014795,,
+kg/MW peak,Deetman et al. 2021,"Electricity infrastructure, wind",expansion (& replacement),Global,,31628.732719555075,18649.082219842865,428.3287189950645,44.65925,199795.49945404843,,,,700345.7885064398,565.2206424390899,,,,4719.894281014795,,
+kg/km,Wiedenhofer et al. 2024,Railways,expansion,AUT,,6187.038563389167,6187.038563389167,,,192876.88421486557,971637.3855616135,,,353570.81966288714,,,,,,,127592.04021993345
+kg/km,Wiedenhofer et al. 2024,Railways,expansion,DEU,,6187.038563389167,6187.038563389167,,,190520.77456846795,1026860.3395581855,,,520019.34084086225,,,,,,,35725.771261581365
+kg/km,Wiedenhofer et al. 2024,Railways,expansion,GBR,,,,,,209938.10570585026,1270492.310252506,,,316375.5711207258,,,,,,,99055.43771297863
+kg/km,Wiedenhofer et al. 2024,Railways,expansion,Global,,3712.2231380335006,3712.2231380335006,,,209938.10570585026,1270492.310252506,,,316375.5711207258,,,,,,,99055.43771297863
+kg/km,Wiedenhofer et al. 2024,Railways,replacement,AUT,,123.74077126778334,123.74077126778334,,,6429.229473828852,8096.978213013445,,,7071.416393257742,,,,,,,2551.840804398669
+kg/km,Wiedenhofer et al. 2024,Railways,replacement,DEU,,123.74077126778334,123.74077126778334,,,6350.692485615599,8557.169496318213,,,10400.386816817245,,,,,,,714.5154252316273
+kg/km,Wiedenhofer et al. 2024,Railways,replacement,GBR,,,,,,6997.936856861676,10587.435918770883,,,6327.511422414517,,,,,,,1981.1087542595726
+kg/km,Wiedenhofer et al. 2024,Railways,replacement,Global,,74.24446276067,74.24446276067,,,6997.936856861676,10587.435918770883,,,6327.511422414517,,,,,,,1981.1087542595726
+kg/km,Wiedenhofer et al. 2024,Railways bridges,expansion,AUT,,,,,,17463785.959937666,,,,1444067.4007206582,,,,,,,
+kg/km,Wiedenhofer et al. 2024,Railways bridges,expansion,DEU,,,,,,17463785.959937666,,,,1444067.4007206582,,,,,,,
+kg/km,Wiedenhofer et al. 2024,Railways bridges,expansion,GBR,,,,,,13394637.261668295,,,,6086899.265461318,,,,,,,
+kg/km,Wiedenhofer et al. 2024,Railways bridges,expansion,Global,,,,,,13394637.261668295,,,,6086899.265461318,,,,,,,
+kg/km,Wiedenhofer et al. 2024,Railways bridges,replacement,AUT,,,,,,145531.54966614718,,,,12033.895006005487,,,,,,,
+kg/km,Wiedenhofer et al. 2024,Railways bridges,replacement,DEU,,,,,,145531.54966614718,,,,12033.895006005487,,,,,,,
+kg/km,Wiedenhofer et al. 2024,Railways bridges,replacement,GBR,,,,,,111621.97718056913,,,,50724.16054551099,,,,,,,
+kg/km,Wiedenhofer et al. 2024,Railways bridges,replacement,Global,,,,,,111621.97718056913,,,,50724.16054551099,,,,,,,
+kg/km,Wiedenhofer et al. 2024,Railways tunnels,expansion,AUT,,,,,,1842076.2065836843,,,,48861437.84041591,,,,,,,
+kg/km,Wiedenhofer et al. 2024,Railways tunnels,expansion,DEU,,,,,,1842076.2065836843,,,,48861437.84041591,,,,,,,
+kg/km,Wiedenhofer et al. 2024,Railways tunnels,expansion,GBR,,,,,,1459041.3789683373,,,,49679091.28793574,,,,,,,
+kg/km,Wiedenhofer et al. 2024,Railways tunnels,expansion,Global,,,,,,1459041.3789683373,,,,49679091.28793574,,,,,,,
+kg/km,Wiedenhofer et al. 2024,Railways tunnels,replacement,AUT,,,,,,15350.635054864035,,,,407178.6486701326,,,,,,,
+kg/km,Wiedenhofer et al. 2024,Railways tunnels,replacement,DEU,,,,,,15350.635054864035,,,,407178.6486701326,,,,,,,
+kg/km,Wiedenhofer et al. 2024,Railways tunnels,replacement,GBR,,,,,,12158.678158069477,,,,413992.42739946453,,,,,,,
+kg/km,Wiedenhofer et al. 2024,Railways tunnels,replacement,Global,,,,,,12158.678158069477,,,,413992.42739946453,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Railways, local",expansion,AUT,,48639.41106974046,48639.41106974046,,,3112943.5763517553,884637.0664247301,,,51343764.8008041,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Railways, local",expansion,DEU,,48639.41106974046,48639.41106974046,,,3112943.5763517553,884637.0664247301,,,51343764.8008041,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Railways, local",expansion,GBR,,,,,,2519262.241027645,1238214.8718343575,,,38903954.12139566,,,,,,,37287.28576399858
+kg/km,Wiedenhofer et al. 2024,"Railways, local",expansion,Global,,36479.55830230535,36479.55830230535,,,2519262.241027645,1238214.8718343575,,,38903954.12139566,,,,,,,37287.28576399858
+kg/km,Wiedenhofer et al. 2024,"Railways, local",replacement,AUT,,415.54012356035634,415.54012356035634,,,26691.443668068758,7371.975553539418,,,439243.45585017465,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Railways, local",replacement,DEU,,415.54012356035634,415.54012356035634,,,26691.443668068758,7371.975553539418,,,439243.45585017465,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Railways, local",replacement,GBR,,,,,,21684.548335655887,10318.457265286313,,,332733.67956090247,,,,,,,745.7457152799717
+kg/km,Wiedenhofer et al. 2024,"Railways, local",replacement,Global,,311.6550926702673,311.6550926702673,,,21684.548335655887,10318.457265286313,,,332733.67956090247,,,,,,,745.7457152799717
+kg/km,Wiedenhofer et al. 2024,"Roads, communal",expansion,AUT,,,,,,,648856.0859029628,409364.3199713656,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, communal",expansion,DEU,,,,,,,648856.0859029628,409364.3199713656,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, communal",expansion,GBR,,,,,,,843298.1117393983,1125911.851101957,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, communal",expansion,Global,,,,,,,621796.6861188024,321687.51070631994,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, communal",replacement,AUT,,,,,,,5407.134049191356,19493.539046255504,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, communal",replacement,DEU,,,,,,,5407.134049191356,19493.539046255504,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, communal",replacement,GBR,,,,,,,7027.484264494986,53614.85005247415,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, communal",replacement,Global,,,,,,,5181.639050990019,15318.45289077714,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, motorway",expansion,AUT,,,,,,,8701520.239818236,6770812.340023276,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, motorway",expansion,DEU,,,,,,,8701520.239818236,6770812.340023276,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, motorway",expansion,GBR,,,,,,,8888340.676497895,10681455.133657573,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, motorway",expansion,Global,,,,,,,8749863.992478423,7584437.696462298,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, motorway",replacement,AUT,,,,,,,72512.66866515197,322419.63523920364,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, motorway",replacement,DEU,,,,,,,72512.66866515197,322419.63523920364,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, motorway",replacement,GBR,,,,,,,74069.50563748245,508640.7206503606,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, motorway",replacement,Global,,,,,,,72915.53327065353,361163.699831538,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, motorway bridges",expansion,AUT,,,,,,2571540.901584876,,,,33779344.11506608,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, motorway bridges",expansion,DEU,,,,,,2571540.901584876,,,,33779344.11506608,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, motorway bridges",expansion,GBR,,,,,,4218857.55145762,,,,35313121.91089432,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, motorway bridges",expansion,Global,,,,,,3251836.1333181276,,,,27218858.283195525,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, motorway bridges",replacement,AUT,,,,,,21429.5075132073,,,,281494.53429221734,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, motorway bridges",replacement,DEU,,,,,,21429.5075132073,,,,281494.53429221734,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, motorway bridges",replacement,GBR,,,,,,35157.14626214683,,,,294276.0159241194,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, motorway bridges",replacement,Global,,,,,,27098.63444431773,,,,226823.81902662938,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, motorway tunnels",expansion,AUT,,,,,,2121733.770211387,,,,56279410.35043467,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, motorway tunnels",expansion,DEU,,,,,,3782966.2243667264,,,,100343931.68081501,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, motorway tunnels",expansion,GBR,,,,,,3743385.8024878376,,,,83991846.08259149,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, motorway tunnels",expansion,Global,,,,,,2885349.188733401,,,,64739735.02639351,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, motorway tunnels",replacement,AUT,,,,,,17681.114751761557,,,,468995.0862536222,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, motorway tunnels",replacement,DEU,,,,,,31524.718536389388,,,,836199.4306734585,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, motorway tunnels",replacement,GBR,,,,,,31194.881687398647,,,,699932.0506882624,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, motorway tunnels",replacement,Global,,,,,,24044.576572778336,,,,539497.7918866125,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, provincial",expansion,AUT,,,,,,,267761.72936255514,126013.86687179378,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, provincial",expansion,DEU,,,,,,,339750.30402516667,176592.70086202535,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, provincial",expansion,GBR,,,,,,,768929.1892160402,686928.1825869256,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, provincial",expansion,Global,,,,,,,382982.5760959123,140322.75006534046,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, provincial",replacement,AUT,,,,,,,2231.3477446879597,6000.660327228276,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, provincial",replacement,DEU,,,,,,,2831.252533543056,8409.176231525014,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, provincial",replacement,GBR,,,,,,,6407.743243467001,32710.865837472647,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, provincial",replacement,Global,,,,,,,3191.5214674659364,6682.035717397165,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, state",expansion,AUT,,,,,,,3098039.9433263615,2302723.3340473864,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, state",expansion,DEU,,,,,,,3098039.9433263615,2302723.3340473864,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, state",expansion,GBR,,,,,,,4429808.23985367,6310127.719022264,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, state",expansion,Global,,,,,,,3302707.971827287,2621036.2058808724,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, state",replacement,AUT,,,,,,,25816.999527719676,109653.4920974946,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, state",replacement,DEU,,,,,,,25816.999527719676,109653.4920974946,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, state",replacement,GBR,,,,,,,36915.068665447245,300482.2723343935,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, state",replacement,Global,,,,,,,27522.566431894058,124811.24789908914,,,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, state bridges",expansion,AUT,,,,,,1650192.5748754097,,,,15711006.504647143,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, state bridges",expansion,DEU,,,,,,1650192.5748754097,,,,15711006.504647143,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, state bridges",expansion,GBR,,,,,,3504935.2084414014,,,,22555254.253861718,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, state bridges",expansion,Global,,,,,,2080137.6488008362,,,,13386276.995572992,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, state bridges",replacement,AUT,,,,,,13751.604790628415,,,,130925.05420539287,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, state bridges",replacement,DEU,,,,,,13751.604790628415,,,,130925.05420539287,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, state bridges",replacement,GBR,,,,,,29207.793403678348,,,,187960.45211551432,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, state bridges",replacement,Global,,,,,,17334.480406673632,,,,111552.3082964416,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, state tunnels",expansion,AUT,,,,,,1168694.5252097934,,,,30999854.780100618,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, state tunnels",expansion,DEU,,,,,,2083735.4702755571,,,,55271497.88529329,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, state tunnels",expansion,GBR,,,,,,2820017.304540838,,,,63273857.382218935,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, state tunnels",expansion,Global,,,,,,1673646.9625222525,,,,37552287.017635696,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, state tunnels",replacement,AUT,,,,,,9739.121043414943,,,,258332.12316750514,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, state tunnels",replacement,DEU,,,,,,17364.462252296307,,,,460595.8157107774,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, state tunnels",replacement,GBR,,,,,,23500.144204506985,,,,527282.1448518245,,,,,,,
+kg/km,Wiedenhofer et al. 2024,"Roads, state tunnels",replacement,Global,,,,,,13947.058021018769,,,,312935.72514696413,,,,,,,
+kg/m2,"Röck et al. 2024, Deetman et al. 2021, Marinova et al. 2021","Buildings, dwelling multi",expansion (& replacement),Central Europe,34.0,0.448923427,0.08647933099999999,,,5.812452448,,,,551.6087032504383,2.824593671,,,,,,9.445929725010911
+kg/m2,"Röck et al. 2024, Deetman et al. 2021, Marinova et al. 2021","Buildings, dwelling multi",expansion (& replacement),Northern Europe,62.0,,,,,79.0,193.4450939811455,,72.6825878594249,690.4372485921156,4.0,50.9739014430655,80.450522928399,539.018503620273,111.826226870474,,27.4
+kg/m2,"Röck et al. 2024, Deetman et al. 2021, Marinova et al. 2021","Buildings, dwelling multi",expansion (& replacement),Other,9.0,,,,,51.1140220981888,,,,1588.38076660211,,258.911977446178,28.2150552454721,25.90800536672625,76.5206743364847,,54.4304114490161
+kg/m2,"Röck et al. 2024, Deetman et al. 2021, Marinova et al. 2021","Buildings, dwelling multi",expansion (& replacement),Southern Europe,29.0,,,,,0.0368484848484848,,,388.773247978436,1141.156462585034,6.5,99.7300955414012,,,0.0531637466307277,,9.672868476924796
+kg/m2,"Röck et al. 2024, Deetman et al. 2021, Marinova et al. 2021","Buildings, dwelling single",expansion (& replacement),Central Europe,19.0,0.9348441926345609,0.16484009118570025,,,39.90909090909091,,,40.9541548999579,1287.124422704508,5.660056657223796,29.7422339722405,55.7291353722285,,33.8580784714294,,41.586087311301505
+kg/m2,"Röck et al. 2024, Deetman et al. 2021, Marinova et al. 2021","Buildings, dwelling single",expansion (& replacement),Northern Europe,33.0,,9.0,,,35.773809523809504,,,7.28717948717948,283.471074380165,2.0,50.4998004788507,,16.474503430841402,,,90.2458100558659
+kg/m2,"Röck et al. 2024, Deetman et al. 2021, Marinova et al. 2021","Buildings, dwelling single",expansion (& replacement),Other,10.0,,,,,9.6058201058201,,,81.7896825396825,255.197089947089,3.63941798941798,17.7420634920634,,,,,40.0132275132275
+kg/m2,"Röck et al. 2024, Deetman et al. 2021, Marinova et al. 2021","Buildings, dwelling single",expansion (& replacement),Southern Europe,17.0,,,,,11.522109375,,,448.010416666666,1797.1124620060789,3.0,69.4270833333333,,,0.0503645833333333,,44.28090172239108
+kg/m2,"Röck et al. 2024, Deetman et al. 2021, Marinova et al. 2021","Buildings, education",expansion (& replacement),Global,17.0,6.45,,,,40.0,693.9045971248245,,60.97936675467955,646.77307425399,7.6,62.4267771133123,,67.9564705882352,31.7397734018465,,97.013639712663
+kg/m2,"Röck et al. 2024, Deetman et al. 2021, Marinova et al. 2021","Buildings, education",expansion (& replacement),Northern Europe,11.0,,,,,15.366653449154501,693.9045971248245,,60.97936675467955,597.473619443162,,62.4267771133123,,67.9564705882352,26.75707020460355,,97.013639712663
+kg/m2,"Röck et al. 2024, Deetman et al. 2021, Marinova et al. 2021","Buildings, offices",expansion (& replacement),Global,47.0,6.10071355759429,2.7,,,27.7358477743798,297.6334458300235,,69.7312519776394,849.378003958156,12.4766751484308,24.6734520780322,,23.0663706060606,9.78674039172398,,6.7345207803223
+kg/m2,"Röck et al. 2024, Deetman et al. 2021, Marinova et al. 2021","Buildings, offices",expansion (& replacement),Northern Europe,29.0,,,,,17.0398642917726,297.6334458300235,,45.447318296512,849.378003958156,12.4766751484308,24.6734520780322,,23.0663706060606,18.432731560158402,,6.7345207803223
+kg/m2,"Röck et al. 2024, Deetman et al. 2021, Marinova et al. 2021","Buildings, offices",expansion (& replacement),Other,14.0,6.10071355759429,2.7,,,100.641791044776,,,216.417910447761,533.0,12.0199004975124,,,,3.7116920842411,,13.5338188040309
+kg/m2,"Röck et al. 2024, Deetman et al. 2021, Marinova et al. 2021","Buildings, other",expansion (& replacement),Global,8.0,4.7,3.4,,,51.24965495275505,,,52.9514154875716,970.264014236684,3.9,42.53249226789955,66.6901369572141,,26.7493326553959,,18.5
+kg/m2,"Röck et al. 2024, Deetman et al. 2021, Marinova et al. 2021","Buildings, trade",expansion (& replacement),Global,14.0,1.65,2.3,,,47.5112032679527,1725.45034377387,,,510.229870928088,1.9,56.1130506043843,75.5244755244755,,21.62084314060045,,11.0
+kg/m2,"Röck et al. 2024, Deetman et al. 2021, Marinova et al. 2021","Buildings, trade",expansion (& replacement),Northern Europe,10.0,,,,,33.7429124856625,1725.45034377387,,,508.543441001977,,56.1130506043843,75.5244755244755,,21.62084314060045,,
